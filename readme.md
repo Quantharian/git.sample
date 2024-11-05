@@ -1,6 +1,6 @@
 #Git Sample
 
-Esto es un ejemplo del curso de Git
+Esto es un ejemplo del curso de Git:
 
 Estados de un fichero:
 
