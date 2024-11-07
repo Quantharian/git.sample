@@ -13,3 +13,4 @@ Areas de un repositorio
 - workarea
 - stage o index area
 - repositorio
+- remoto
